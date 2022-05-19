@@ -1,3 +1,13 @@
+# Digitalizer knowledge center
+
+Project management tricks and tools
+
+Web and mobile development trends
+
+Design trends
+
+Digital marketing trends
+
 * Project management tricks and tools
 
 May/2022 (Actual tip) : Wrike →　Empower your teams with Wrike’s collaborative and intuitive tools - [Link](https://try.wrike.com/project-management-capterra/?utm_medium=cpc&utm_campaign=project&utm_content=listing&utm_source=GetApp&dclid=CPG3lsCI3_cCFUiJdwodT6IAkQ)
