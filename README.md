@@ -1,14 +1,14 @@
 # Digitalizer knowledge center
 
-Project management tricks and tools
+[Project management tricks and tools](#project-management-tricks-and-tools)
 
-Web and mobile development trends
+[Web and mobile development trends](#web-and-mobile-development-trends)
 
-Design trends
+[Design trends](#design-trends)
 
-Digital marketing trends
+[Digital marketing trends](#digital-marketing-trends)
 
-* Project management tricks and tools
+## Project management tricks and tools
 
 May/2022 (Actual tip) : Wrike →　Empower your teams with Wrike’s collaborative and intuitive tools - [Link](https://try.wrike.com/project-management-capterra/?utm_medium=cpc&utm_campaign=project&utm_content=listing&utm_source=GetApp&dclid=CPG3lsCI3_cCFUiJdwodT6IAkQ)
 
@@ -21,8 +21,7 @@ Dec/2021 (Blog) : 5 Implications of Artificial Intelligence for Project Manageme
 Feb/2020 (Blog : )Ways to enhance your PM skills - [Link](https://www.business2community.com/strategy/9-ways-to-enhance-your-project-management-skills-in-2020-02285011)
 
 
-* Web and mobile development trends
-
+## Web and mobile development trends
 Jan/2022 (Blog) - Top 15 Mobile App Development Trends to Watch for in 2022 -[Link](https://www.netsolutions.com/insights/12-mobile-app-development-trends-to-watch-out-for-in-2019/)
 
 Jun/2021 (Blog) - How to Build Apps for Foldable Devices: New Business Possibilities in 2022 -[Link](https://addevice.io/blog/how-to-develop-apps-for-foldable-smartphones/)
@@ -30,7 +29,7 @@ Jun/2021 (Blog) - How to Build Apps for Foldable Devices: New Business Possibili
 Dec/2020 (Article) - AR VR Technology: The Defining Technology of 2020-2030 -[Link](https://www.idtechex.com/ja/research-article/ar-vr-technology-the-defining-technology-of-2020-2030/22387)
 
 
-* Design trends
+## Design trends
 
 May/2022 (Video) - For “Adobe User” : Design Trends Masterclass: 2D & 3D Mashup -[Link](https://www.youtube.com/watch?v=_J-Iv7IVeNY)
 
@@ -41,7 +40,7 @@ Nov/2021 (Blog) - Top Graphic Design Trends 2022: Raising the Game -[Link](https
 Apr/2021 (Video) - Trendy Glass Morphism Effect - Illustrator tutorial -[Link](https://www.youtube.com/watch?v=pNqFL34lzeE)
 
 
-* Digital marketing trends
+## Digital marketing trends
 
 Mar/2022 (Blog) - The Next Big Digital Marketing Trends in 2022 -[Link](https://digitalmarketinginstitute.com/blog/the-next-big-digital-marketing-trends)
 
