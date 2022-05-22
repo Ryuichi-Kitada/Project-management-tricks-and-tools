@@ -18,7 +18,7 @@ Jan/2022 (Video) : Top 5 Project Management Trends in 2022 - [Link](https://yout
 
 Dec/2021 (Blog) : 5 Implications of Artificial Intelligence for Project Management - [Link](https://www.pmi.org/learning/publications/pm-network/digital-exclusives/implications-of-ai)
 
-Feb/2020 (Blog : )Ways to enhance your PM skills - [Link](https://www.business2community.com/strategy/9-ways-to-enhance-your-project-management-skills-in-2020-02285011)
+Feb/2020 (Blog) : Ways to enhance your PM skills - [Link](https://www.business2community.com/strategy/9-ways-to-enhance-your-project-management-skills-in-2020-02285011)
 
 
 ## Web and mobile development trends
